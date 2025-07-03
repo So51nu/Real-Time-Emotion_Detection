@@ -25,8 +25,8 @@ pip install rmn
 
 # or build from source
 
-git clone git@github.com:phamquiluan/ResidualMaskingNetwork.git
-cd ResidualMaskingNetwork
+git clone https://github.com/So51nu/Real-Time-Emotion_Detection
+cd Real-Time-Emotion_Detection
 pip install -e .
 ```
 
@@ -208,8 +208,8 @@ I used the no-weighted sum average ensemble method to fuse 7 different models to
 
 ## Authors
 
-- [**Luan Pham**](https://github.com/phamquiluan)
-- [**Tuan Anh Tran**](https://github.com/phamquiluan)
+- [**Luan Pham**](https://github.com/Sonu Yada )
+- [**Tuan Anh Tran**](https://github.com/Yadav Sonu)
 
 
 <p id="references"></p>
